@@ -1,0 +1,39 @@
+{
+  "name": "sampletemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoffTheChef/Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeoffTheChef/Template/issues"
+  },
+  "homepage": "https://github.com/GeoffTheChef/Template#readme",
+  "dependencies": {
+    "flickity": "^2.2.1",
+    "insane": "^2.6.2",
+    "jquery": "^3.5.1",
+    "jsonp": "^0.2.1",
+    "lodash": "^4.17.20",
+    "slug": "^4.0.2",
+    "uniq": "^1.0.1",
+    "webpack-cli": "^4.3.0",
+    "webpack3": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.11.1"
+  },
+  "build": {
+    "webpack": "--progress --watch"
+  }
+}
