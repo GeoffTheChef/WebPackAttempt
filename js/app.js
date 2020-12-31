@@ -1,4 +1,4 @@
-import $ from "jQuery"; 
+import $ from "jquery"; 
 
 var settings = {
     "url": "https://pokeapi.co/api/v2/pokemon/bellsprout/",
